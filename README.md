@@ -1,7 +1,3 @@
-Here's a well-structured **GitHub README** for your *Movie Theatre Management System* SQL project:  
-
----
-
 # 🎬 Movie Theatre Management System  
 
 ## 📌 Overview  
