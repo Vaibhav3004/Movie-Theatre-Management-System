@@ -32,7 +32,7 @@ The database consists of **seven core tables**:
 7️⃣ **Staff** – Stores staff details for managing operations.  
 
 🔗 **ER Diagram Preview**:  
-![ER Diagram](path_to_ER_diagram.png)  
+![Image](https://github.com/user-attachments/assets/c89decca-f91c-4843-89a0-37afa67dcd62) 
 
 ---
 
